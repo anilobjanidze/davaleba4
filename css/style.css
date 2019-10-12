@@ -1,5 +1,58 @@
-.logoebi{
-	width: 30px
+
+
+.logo12 img{
+	width: 100px
 	
-};
+
 }
+.logo12{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+}
+ul {
+	list-style: none;
+}
+.navigation-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px
+}
+
+.logoebi{
+	width:30px
+
+}
+.PS{
+	width: 100px
+	margin-top: 30px
+
+}
+.surati1{
+	display: inline-block;
+	vertical-align: top;
+	width: 100px
+}
+.text1{
+	display: inline-block;
+	vertical-align: top;
+	width:200px
+	
+}
+.surati2{
+	display: inline-block;
+	vertical-align: top;
+	width: 100px
+}
+
+}
+.text1{
+	
+}
+
